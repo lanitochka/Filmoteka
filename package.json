@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://PavloLevchenko.github.io/Filmoteka",
+  "homepage": "https://lanitochka.github.io/Filmoteka",
   "scripts": {
     "dev": "parcel src/*.html --open --no-cache",
     "build": "parcel build src/*.html --public-url /Filmoteka/"
@@ -13,7 +13,7 @@
     "url": "git+https://github.com/goitacademy/parcel-project-template.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "lanitochka <lanitochka@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
